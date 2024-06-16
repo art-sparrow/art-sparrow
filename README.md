@@ -4,7 +4,7 @@
 <!--Modify the profile's badges using this link: https://github.com/Ileriayo/markdown-badges--!>
 
 
-<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=art-sparrow&show_icons=true&theme=radical"> -->
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=art-sparrow&show_icons=true&theme=radical">
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art-sparrow&langs_count=8"> -->
 
