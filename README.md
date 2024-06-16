@@ -6,7 +6,7 @@
 
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=art-sparrow&show_icons=true&theme=radical"> -->
 
- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art-sparrow&langs_count=8">
+ <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=art-sparrow&langs_count=8"> -->
 
 
 <h2> Frameworks </h2>
