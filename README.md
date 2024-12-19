@@ -1,10 +1,6 @@
 # 💫 About Me:
 🔭 I'm currently working on a POS app<br>⚡I relish nature walks and sandy beaches
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=art-sparrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=art-sparrow&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=art-sparrow&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 <!--
 
 # 💻 Tech Stack:
