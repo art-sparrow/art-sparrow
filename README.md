@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a POS app<br>⚡I relish nature walks and sandy beaches
+🔭 I'm currently working on a healthcare app<br>⚡I relish nature walks and sandy beaches
 
 <!--
 
